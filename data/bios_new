@@ -1,4 +1,4 @@
-athlete_id,name,born_date,born_city,born_region,born_country,NOC,height_cm,weight_kg,died_date,first_name,born_datetime,born_year
+athlete_id,name,born_date,born_city,born_region,born_country,NOC,height_cm,weight_kg,died_date,first_name,DOB,born_year
 1,Jean-François Blanchy,1886-12-12,Bordeaux,Gironde,FRA,France,,,1960-10-02,Jean-François,1886-12-12,1886.0
 2,Arnaud Boetsch,1969-04-01,Meulan,Yvelines,FRA,France,183.0,76.0,,Arnaud,1969-04-01,1969.0
 3,Jean Borotra,1898-08-13,Biarritz,Pyrénées-Atlantiques,FRA,France,183.0,76.0,1994-07-17,Jean,1898-08-13,1898.0
